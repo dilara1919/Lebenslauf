@@ -20,7 +20,7 @@ function Navbar() {
 
 export default function App() {
   return (
-    <Router>
+    <Router basename="/Lebenslauf">
       <div className="App">
         {/* Navbar bleibt immer sichtbar */}
         <Navbar />
@@ -31,7 +31,7 @@ export default function App() {
           <Route path="/work" element={<Work />} />
           <Route path="/project" element={<Project />} />
         </Routes>
-      </div>
+      </div>  
     </Router>
   );
 }

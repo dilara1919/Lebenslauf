@@ -30,7 +30,7 @@ export default function Home() {
       </div>
       <div className="CV">
           <a
-          href="/Lebenslauf.pdf"
+          href={`${process.env.PUBLIC_URL}/Lebenslauf.pdf`}
           download
           className="custom-button"
           >

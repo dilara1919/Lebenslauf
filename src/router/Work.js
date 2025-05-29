@@ -31,7 +31,7 @@ export default function Work() {
       </p>
       {/* PDF-Vorschau */}
       <iframe
-        src="/ExpressoBar.pdf"
+        src={`${process.env.PUBLIC_URL}/ExpressoBar.pdf`}
         className="pdf-preview"
         title="PDF Vorschau"
       ></iframe>
@@ -39,7 +39,7 @@ export default function Work() {
          {/* Buttons */}
       <div className="button-group">
         <a
-          href="/ExpressoBar.pdf"
+          href={`${process.env.PUBLIC_URL}/ExpressoBar.pdf`}
           download
           className="custom-button"
         >

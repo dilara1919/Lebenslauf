@@ -1,0 +1,81 @@
+.timeline-container {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  font-family: 'Poppins', sans-serif;
+  color: #eee;
+  display: block;
+
+}
+
+.timeline-container h2 {
+  text-align: center;
+  margin-bottom: 30px;
+  color: #61dafb;
+}
+
+.timeline {
+  position: relative;
+  margin-left: 20px;
+  padding-left: 20px;
+  border-left: 3px solid #61dafb;
+}
+
+.timeline-item {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.timeline-icon {
+  background-color: #61dafb;
+  color: #222;
+  font-size: 20px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  flex-shrink: 0;
+  box-shadow: 0 0 10px #61dafbaa;
+  position: relative;
+  top: 4px;
+}
+
+.timeline-content {
+  background-color: #333;
+  padding: 15px 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 8px #0008;
+  flex: 1;
+}
+
+.timeline-date {
+  font-weight: 600;
+  color: #61dafb;
+  margin-bottom: 5px;
+  display: block;
+  font-size: 0.9rem;
+}
+
+.timeline-content h3 {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #fff;
+}
+
+.timeline-content h4 {
+  margin: 5px 0 10px 0;
+  font-weight: 400;
+  color: #ccc;
+}
+
+.timeline-content p {
+  margin: 0;
+  line-height: 1.4;
+  font-size: 0.95rem;
+  color: #ddd;
+}

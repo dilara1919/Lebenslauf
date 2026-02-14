@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/Lebenslauf/static/css/main.251f0cbe.css",
-    "main.js": "/Lebenslauf/static/js/main.fda74b6d.js",
+    "main.css": "/Lebenslauf/static/css/main.d8ef5a2e.css",
+    "main.js": "/Lebenslauf/static/js/main.80bdc45f.js",
     "static/js/453.96453769.chunk.js": "/Lebenslauf/static/js/453.96453769.chunk.js",
+    "static/media/bookchaos_trailer_test.mp4": "/Lebenslauf/static/media/bookchaos_trailer_test.aeef0c63bc17c031fc07.mp4",
+    "static/media/Thumbnail.png": "/Lebenslauf/static/media/Thumbnail.f870150e6a422416096f.png",
     "static/media/me.jpeg": "/Lebenslauf/static/media/me.bb4a25b059fd495c7187.jpeg",
     "index.html": "/Lebenslauf/index.html",
-    "main.251f0cbe.css.map": "/Lebenslauf/static/css/main.251f0cbe.css.map",
-    "main.fda74b6d.js.map": "/Lebenslauf/static/js/main.fda74b6d.js.map",
+    "main.d8ef5a2e.css.map": "/Lebenslauf/static/css/main.d8ef5a2e.css.map",
+    "main.80bdc45f.js.map": "/Lebenslauf/static/js/main.80bdc45f.js.map",
     "453.96453769.chunk.js.map": "/Lebenslauf/static/js/453.96453769.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.251f0cbe.css",
-    "static/js/main.fda74b6d.js"
+    "static/css/main.d8ef5a2e.css",
+    "static/js/main.80bdc45f.js"
   ]
 }
